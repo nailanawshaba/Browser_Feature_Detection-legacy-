@@ -25,7 +25,7 @@ var Dolby = Dolby || {};
 			} catch (e) {
 			}
 		}, false);
-		audio.src = '/assets/silence.mp4';
+		audio.src = 'assets/silence.mp4';
 		audio.play();
 	}
 }(Dolby.init));
