@@ -4,7 +4,7 @@ var Dolby = Dolby || {};
 	'use strict';
 	var video = document.createElement('video');
 
-	if (video.canPlayType('audio/mp4;codecs="ec-3"') === '' || video.canPlayType('audio/mp4;codecs="ac-3"') === '') {
+	if (video.canPlayType('audio/mp4;codecs="ec-3"') === '') {
 		Dolby.supportDDPlus = false;
 		start();
 	} else {
