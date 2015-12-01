@@ -1,5 +1,6 @@
-# Browser_Feature_Detection
-Sample code for browser feature detection
+# Browser_Feature_Detection (Legacy)
+
+Sample code for browser feature detection - This is a more in-depth sample of feature detection. We recommend using our new Web_Feature_Detection Sample code instead.
 
 This is sample code to help HTML/Javascript Developer feature detect for Dolby Digital Plus support on Browsers
 
